@@ -1,0 +1,7 @@
+# stringology
+Java implementation of multiple string matching algorithms
+<dependency>
+            <groupId>com.github.mazenmelouk</groupId>
+            <artifactId>Stringology</artifactId>
+            <version>0.1-SNAPSHOT</version>
+  </dependency>
