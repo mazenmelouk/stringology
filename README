@@ -4,5 +4,5 @@ Java implementation of multiple string matching algorithms {Naive, Boyer Moore, 
 <dependency>
             <groupId>com.github.mazenmelouk</groupId>
             <artifactId>Stringology</artifactId>
-            <version>0.1-SNAPSHOT</version>
+            <version>0.1</version>
 </dependency>
